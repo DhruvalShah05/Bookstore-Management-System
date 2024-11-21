@@ -1,0 +1,146 @@
+[
+   {
+       "name": "The Adventures of Tom Sawyer",
+       "Describe": "A classic novel by Mark Twain that follows the mischievous adventures of a young boy growing up along the Mississippi River.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/children-s-book-cover-template_23-2148430625.jpg"
+   },
+   {
+       "name": "Alice's Adventures in Wonderland",
+       "Describe": "Lewis Carroll's whimsical tale of Alice, who falls down a rabbit hole into a fantastical world filled with peculiar creatures.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-photo/girl-holding-alice-wonderland-book_23-2149115024.jpg"
+   },
+   {
+       "name": "The Complete Book of Sports",
+       "Describe": "An informative guide covering various sports, rules, strategies, and famous athletes. Ideal for sports enthusiasts.",
+       "price": 50,
+       "category": "Sports",
+       "image": "https://img.freepik.com/free-photo/open-book-green-background_23-2148024657.jpg"
+   },
+   {
+       "name": "Music Theory for Beginners",
+       "Describe": "A step-by-step introduction to music theory, covering basic concepts such as scales, chords, and rhythm for aspiring musicians.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/music-instruments-cartoon-background_1284-21150.jpg"
+   },
+   {
+       "name": "Grimm's Fairy Tales",
+       "Describe": "A collection of classic fairy tales by the Brothers Grimm, featuring well-known stories like Cinderella and Hansel and Gretel.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/open-fairytale-book_23-2147730091.jpg"
+   },
+   {
+       "name": "The Secret Garden",
+       "Describe": "Frances Hodgson Burnett's heartwarming tale of a young girl who discovers a hidden garden and unlocks its magical secrets.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/fairy-tale-landscape-scene_1284-16961.jpg"
+   },
+   {
+       "name": "Treasure Island",
+       "Describe": "Robert Louis Stevenson's swashbuckling adventure novel about pirates, treasure maps, and high-seas escapades.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/pirate-map-cartoon-style_1284-11933.jpg"
+   },
+   {
+       "name": "Peter Pan",
+       "Describe": "J.M. Barrie's timeless story of the boy who never grows up, and his adventures in Neverland with Wendy, Tinkerbell, and Captain Hook.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-photo/peter-pan-book-cover_23-2149118056.jpg"
+   },
+   {
+       "name": "The Jungle Book",
+       "Describe": "Rudyard Kipling's classic stories of Mowgli, a boy raised by wolves, and his adventures in the Indian jungle with Baloo the bear and Bagheera the panther.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-vector/cute-jungle-background-with-animals_23-2147627373.jpg"
+   },
+   {
+       "name": "Anne of Green Gables",
+       "Describe": "L.M. Montgomery's beloved tale of Anne Shirley, an imaginative orphan who finds a home with Marilla and Matthew Cuthbert at Green Gables.",
+       "price": 0,
+       "category": "Free",
+       "image": "https://img.freepik.com/free-photo/book-cover-mockup-with-opened-book_23-2148940271.jpg"
+   },
+   {
+       "name": "The  Guide to the Galaxy",
+       "Describe": "Douglas Adams' humorous science fiction novel about Arthur Dent's adventures through space, after the Earth is destroyed to make way for a hyperspace bypass.",
+       "price": 20,
+       "category": "Entertainment",
+       "image": "https://img.freepik.com/free-vector/scifi-themed-book-cover-with-alien-characters_23-2148712097.jpg"
+   },
+   
+      {
+          "name": "Pride and Prejudice",
+          "Describe": "Jane Austen's classic novel of manners, love, and social expectations, centered on the spirited Elizabeth Bennet and the enigmatic Mr. Darcy.",
+          "price": 15,
+          "category": "Romance",
+          "image": "https://img.freepik.com/free-photo/vintage-book-open-with-rose_23-2147998746.jpg"
+      },
+      {
+          "name": "Moby-Dick",
+          "Describe": "Herman Melville's epic tale of Captain Ahab's obsessive quest to kill the white whale, Moby-Dick, a symbol of both fate and revenge.",
+          "price": 12,
+          "category": "Adventure",
+          "image": "https://img.freepik.com/free-photo/open-book-sea-background_23-2148806497.jpg"
+      },
+      {
+          "name": "1984",
+          "Describe": "George Orwell's dystopian novel set in a totalitarian future society where the government, led by Big Brother, exercises complete control over its citizens.",
+          "price": 18,
+          "category": "Dystopian",
+          "image": "https://img.freepik.com/free-vector/illustration-flat-style-political-dystopia-world_23-2149112142.jpg"
+      },
+      {
+          "name": "War and Peace",
+          "Describe": "Leo Tolstoy's masterpiece that intertwines the lives of Russian aristocrats, soldiers, and peasants during the Napoleonic wars, exploring themes of fate, love, and power.",
+          "price": 25,
+          "category": "Historical",
+          "image": "https://img.freepik.com/free-photo/book-cover_23-2149142346.jpg"
+      },
+      {
+          "name": "To Kill a Mockingbird",
+          "Describe": "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the Deep South, seen through the eyes of young Scout Finch.",
+          "price": 14,
+          "category": "Fiction",
+          "image": "https://img.freepik.com/free-photo/book-cover-with-bird-tree-design_23-2149087656.jpg"
+      },
+      {
+          "name": "Frankenstein",
+          "Describe": "Mary Shelley's Gothic novel about a scientist, Victor Frankenstein, who creates a living being from body parts, only to be horrified by what he has made.",
+          "price": 10,
+          "category": "Horror",
+          "image": "https://img.freepik.com/free-photo/book-with-lightning-bolt-cover_23-2149160875.jpg"
+      },
+      {
+          "name": "The Great Gatsby",
+          "Describe": "F. Scott Fitzgerald's portrayal of the American Jazz Age, centered on the mysterious millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.",
+          "price": 20,
+          "category": "Classic",
+          "image": "https://img.freepik.com/free-photo/vintage-book-cover_23-2148836243.jpg"
+      },
+      
+     
+      {
+          "name": "Dracula",
+          "Describe": "Bram Stoker's Gothic horror novel about the vampire Count Dracula's attempt to move from Transylvania to England, and the group of people who try to stop him.",
+          "price": 12,
+          "category": "Horror",
+          "image": "https://img.freepik.com/free-photo/dracula-themed-book-cover_23-2149134567.jpg"
+      },
+      {
+          "name": "The Odyssey",
+          "Describe": "Homer's epic poem about the hero Odysseus' long journey home after the Trojan War, facing monsters, gods, and many perils along the way.",
+          "price": 18,
+          "category": "Epic",
+          "image": "https://img.freepik.com/free-vector/ancient-greek-art-inspired-book-cover_23-2149171586.jpg"
+      }
+  ]
+  
